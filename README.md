@@ -58,7 +58,7 @@ user_id  -> (References users (user_id))
 
 
 <p align="center">
-<img src="https://github.com/sanilrod/TheLook-Data-Warehousing/blob/main/Img/logical.drawio%20(2).drawio%20(1).png" border="10"/>
+<img src="https://github.com/JwalitShah/Data-Warehousing-of-TheLook-E-Commerce-Platform-/blob/main/Img/logical.drawio%20(2).drawio%20(1).png" border="10"/>
 </p>
 
 ### Talend Implementations
