@@ -66,14 +66,14 @@ user_id  -> (References users (user_id))
 1. Customer_Dimension
 
 <p align="center">
-<img src="https://github.com/sanilrod/TheLook-Data-Warehousing/blob/main/Img/Picture1.png" border="10"/>
+<img src="https://github.com/JwalitShah/Data-Warehousing-of-TheLook-E-Commerce-Platform-/blob/main/Img/Picture1.png" border="10"/>
 </p>
 
 <br>
 <br>
 
 <p align="center">
-<img src="https://github.com/sanilrod/TheLook-Data-Warehousing/blob/main/Img/Picture2.png" border="10"/>
+<img src="https://github.com/JwalitShah/Data-Warehousing-of-TheLook-E-Commerce-Platform-/blob/main/Img/Picture2.png" border="10"/>
 </p>
 
 
@@ -81,56 +81,56 @@ user_id  -> (References users (user_id))
 2. Events_Dimension
 
 <p align="center">
-<img src="https://github.com/sanilrod/TheLook-Data-Warehousing/blob/main/Img/Picture3.png"  border="10"/>
+<img src="https://github.com/JwalitShah/Data-Warehousing-of-TheLook-E-Commerce-Platform-/blob/main/Img/Picture3.png"  border="10"/>
 </p>
 
 <br>
 <br>
 
 <p align="center">
-<img src="https://github.com/sanilrod/TheLook-Data-Warehousing/blob/main/Img/Picture4.png" border="10"/>
+<img src="https://github.com/JwalitShah/Data-Warehousing-of-TheLook-E-Commerce-Platform-/blob/main/Img/Picture4.png" border="10"/>
 </p>
 
 
 3. Distribution_center_Dimension
 
 <p align="center">
-<img src="https://github.com/sanilrod/TheLook-Data-Warehousing/blob/main/Img/Picture5.png"  border="10"/>
+<img src="https://github.com/JwalitShah/Data-Warehousing-of-TheLook-E-Commerce-Platform-/blob/main/Img/Picture5.png"  border="10"/>
 </p>
 
 <br>
 <br>
 
 <p align="center">
-<img src="https://github.com/sanilrod/TheLook-Data-Warehousing/blob/main/Img/Picture6.png"  border="10"/>
+<img src="https://github.com/JwalitShah/Data-Warehousing-of-TheLook-E-Commerce-Platform-/blob/main/Img/Picture6.png"  border="10"/>
 </p>
 
 
 4. Order_Dimension
 
 <p align="center">
-<img src="https://github.com/sanilrod/TheLook-Data-Warehousing/blob/main/Img/Picture7.png"  border="10"/>
+<img src="https://github.com/JwalitShah/Data-Warehousing-of-TheLook-E-Commerce-Platform-/blob/main/Img/Picture7.png"  border="10"/>
 </p>
 
 <br>
 <br>
 
 <p align="center">
-<img src="https://github.com/sanilrod/TheLook-Data-Warehousing/blob/main/Img/Picture8.png"  border="10"/>
+<img src="https://github.com/JwalitShah/Data-Warehousing-of-TheLook-E-Commerce-Platform-/blob/main/Img/Picture8.png"  border="10"/>
 </p>
 
 
 5. Product_Dimension
 
 <p align="center">
-<img src="https://github.com/sanilrod/TheLook-Data-Warehousing/blob/main/Img/Picture9.png"  border="10"/>
+<img src="https://github.com/JwalitShah/Data-Warehousing-of-TheLook-E-Commerce-Platform-/blob/main/Img/Picture9.png"  border="10"/>
 </p>
 
 <br>
 <br>
 
 <p align="center">
-<img src="https://github.com/sanilrod/TheLook-Data-Warehousing/blob/main/Img/Picture10.png"  border="10"/>
+<img src="https://github.com/JwalitShah/Data-Warehousing-of-TheLook-E-Commerce-Platform-/blob/main/Img/Picture10.png"  border="10"/>
 </p>
 
 
@@ -138,14 +138,14 @@ user_id  -> (References users (user_id))
 6. Date_Dimension
 
 <p align="center">
-<img src="https://github.com/sanilrod/TheLook-Data-Warehousing/blob/main/Img/Picture11.png" border="10"/>
+<img src="https://github.com/JwalitShah/Data-Warehousing-of-TheLook-E-Commerce-Platform-/blob/main/Img/Picture11.png" border="10"/>
 </p>
 
 <br>
 <br>
 
 <p align="center">
-<img src="https://github.com/sanilrod/TheLook-Data-Warehousing/blob/main/Img/Picture12.png"  border="10"/>
+<img src="https://github.com/JwalitShah/Data-Warehousing-of-TheLook-E-Commerce-Platform-/blob/main/Img/Picture12.png"  border="10"/>
 </p>
 
 
@@ -153,19 +153,19 @@ user_id  -> (References users (user_id))
 6. Fact_Revenue_Dimension
 
 <p align="center">
-<img src="https://github.com/sanilrod/TheLook-Data-Warehousing/blob/main/Img/Picture13.png"  border="10"/>
+<img src="https://github.com/JwalitShah/Data-Warehousing-of-TheLook-E-Commerce-Platform-/blob/main/Img/Picture13.png"  border="10"/>
 </p>
 
 <br>
 <br>
 
 <p align="center">
-<img src="https://github.com/sanilrod/TheLook-Data-Warehousing/blob/main/Img/Picture14.png"  border="10"/>
+<img src="https://github.com/JwalitShah/Data-Warehousing-of-TheLook-E-Commerce-Platform-/blob/main/Img/Picture14.png"  border="10"/>
 </p>
 
 
 ### Tableau Dashboard
 
 <p align="center">
-<img src="https://github.com/sanilrod/TheLook-Data-Warehousing/blob/main/Img/Picture15.png"  border="10"/>
+<img src="https://github.com/JwalitShah/Data-Warehousing-of-TheLook-E-Commerce-Platform-/blob/main/Img/Picture15.png"  border="10"/>
 </p>
